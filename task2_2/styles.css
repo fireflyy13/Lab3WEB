@@ -1,0 +1,44 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 700px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+table {
+  width: 27%;
+  border-collapse: collapse;
+}
+
+td {
+  border: 2px solid black;
+  text-align: center;
+}
+
+.blue {
+  width: 85%;
+  background-color: rgb(34, 34, 236);
+  height: 50px;
+}
+
+.empty {
+  width: 30px;
+  height: 400px;
+}
+
+.second {
+  background-color: rgb(249, 208, 6);
+  width: 18%;
+}
+
+.fifth {
+  background-color: rgb(249, 208, 6);
+  height: 50px;
+}
+
+.fourth {
+  height: 250px;
+}
